@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const ColorfulMessaga = (props) => {
-  console.log(props);
+  // console.log(props);
 
   const { color, message, children } = props;
   const contentStyle = {
